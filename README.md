@@ -1,3 +1,3 @@
 # M1_projectGoal
-## kartik hullur
+## project
 C Programming
