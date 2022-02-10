@@ -20,14 +20,6 @@ If players choose the same weapon, neither win and the game is played again
 
 
 
-
-
-
-
-
-
-
-
 # 4W and 1H
 
 ## Who
