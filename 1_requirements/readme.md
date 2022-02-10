@@ -16,6 +16,18 @@ If players choose the same weapon, neither win and the game is played again
 
 # SWOT Analysis
 
+![swot](https://user-images.githubusercontent.com/85788583/132537528-03422646-a512-4804-9471-68d5ccb5d3db.jpg)
+
+
+
+
+
+
+
+
+
+
+
 # 4W and 1H
 
 ## Who
