@@ -185,6 +185,6 @@ int player(int user_selection2)
 void scores(int wins, int loses)
 {
     printf("The score board is now:\n");
-    printf(" Juan - You\n");
+    printf(" kartik - You\n");
     printf(" %d         %d\n\n",loses, wins);
 }
