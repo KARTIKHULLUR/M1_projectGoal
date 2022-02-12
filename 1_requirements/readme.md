@@ -16,7 +16,7 @@ If players choose the same weapon, neither win and the game is played again
 
 # SWOT Analysis
 
-![swot](https://user-images.githubusercontent.com/85788583/132537528-03422646-a512-4804-9471-68d5ccb5d3db.jpg)
+![ swot analysis ](https://user-images.githubusercontent.com/98834933/153700681-de360992-bae1-4b5a-80ea-ae84eb1d7fc5.jpg)
 
 
 
